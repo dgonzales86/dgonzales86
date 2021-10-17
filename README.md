@@ -1,7 +1,7 @@
 - Hi, I’m @dgonzales86
 - I’m interested in software development, gardening, healthy living.
 - I’m currently learning Java.
-- ![](U+1F91D) I’m looking to collaborate on any project that include Java, C++, Javascript
+- I’m looking to collaborate on any project that include Java, C++, Javascript
 - How to reach me: dgonzales1@outlook.com
 
 <!---
