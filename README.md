@@ -1,7 +1,6 @@
-- Hi, I’m @dgonzales86
-- I’m interested in software development, gardening, healthy living.
-- I’m currently learning Java.
-- I’m looking to collaborate on any project that include Java, C++, Javascript
+- Hi, I’m Donald Gonzales, BSCS
+- My passions include software development, farming, and healthy living.
+- I’m available and willing to help contribute to any software development projects. I'm most familiar with Java, Python, C++, and SQL. However, I have a strong understanding of computational logic, know how to search APIs, and am not afraid to ask questions. Therefore, I'm open to any help with any projects! Just send me an email or message me on Github!
 - How to reach me: dgonzales1@outlook.com
 
 <!---
