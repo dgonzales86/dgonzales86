@@ -1,7 +1,9 @@
-- Hi, I’m Donald Gonzales, BSCS
-- My passions are creating software, robotics, and developing my farm. I'm attempting to transition from an ER registered nurse to a career in software development.
-- Currently, I have been working on the development of a farm management application. This application will help manage and keep track of farm operations.
-- I will upload an SQL file with the current database. As the application is still in its planning phase, the database may change over time.
+Hello, I’m Donald Gonzales, BSCS.
+
+I am passionate about creating software, robotics, and working on my farm. Professionally, I work as a software programmer, specializing in developing stored procedures in MS SQL Server and web applications in C# using the .NET framework.
+
+Currently, I am developing a farm management application designed to manage and track farm operations. I will be uploading an SQL file containing the current database schema. Please note that as the application is still in the planning phase, the database structure may change over time.
+
 
 <!---
 dgonzales86/dgonzales86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
