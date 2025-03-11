@@ -1,7 +1,7 @@
-Hello, I’m Donald Gonzales, BSCS.
 
-I am passionate about creating software, robotics, and working on my farm. Professionally, I work as a software programmer, specializing in developing stored procedures in MS SQL Server and web applications in C# using the .NET framework.
+Hi! I am Donald Gonzales, BSCS.
 
+I am dedicated to the fields of software development, robotics, and agricultural innovation. My professional expertise lies in crafting efficient stored procedures within MS SQL Server and developing robust web applications utilizing C# and the .NET framework.
 
 
 <!---
