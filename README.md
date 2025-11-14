@@ -1,5 +1,5 @@
 
-Hi! I am Donald Gonzales, BSCS.
+Hi! I am Donny Gonzales, BSCS.
 
 I am dedicated to the fields of software development, robotics, and agricultural innovation. My professional expertise lies in crafting efficient stored procedures within MS SQL Server and developing robust web applications utilizing C# and the .NET framework.
 
